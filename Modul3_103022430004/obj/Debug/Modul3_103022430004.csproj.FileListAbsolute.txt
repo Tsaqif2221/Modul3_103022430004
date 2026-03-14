@@ -1,0 +1,10 @@
+C:\Users\MSI GF63\Downloads\Modul3_103022430004\Modul3_103022430004\bin\Debug\Modul3_103022430004.exe.config
+C:\Users\MSI GF63\Downloads\Modul3_103022430004\Modul3_103022430004\bin\Debug\Modul3_103022430004.exe
+C:\Users\MSI GF63\Downloads\Modul3_103022430004\Modul3_103022430004\bin\Debug\Modul3_103022430004.pdb
+C:\Users\MSI GF63\Downloads\Modul3_103022430004\Modul3_103022430004\obj\Debug\Modul3_103022430004.csproj.AssemblyReference.cache
+C:\Users\MSI GF63\Downloads\Modul3_103022430004\Modul3_103022430004\obj\Debug\Modul3_103022430004.Form1.resources
+C:\Users\MSI GF63\Downloads\Modul3_103022430004\Modul3_103022430004\obj\Debug\Modul3_103022430004.Properties.Resources.resources
+C:\Users\MSI GF63\Downloads\Modul3_103022430004\Modul3_103022430004\obj\Debug\Modul3_103022430004.csproj.GenerateResource.cache
+C:\Users\MSI GF63\Downloads\Modul3_103022430004\Modul3_103022430004\obj\Debug\Modul3_103022430004.csproj.CoreCompileInputs.cache
+C:\Users\MSI GF63\Downloads\Modul3_103022430004\Modul3_103022430004\obj\Debug\Modul3_103022430004.exe
+C:\Users\MSI GF63\Downloads\Modul3_103022430004\Modul3_103022430004\obj\Debug\Modul3_103022430004.pdb

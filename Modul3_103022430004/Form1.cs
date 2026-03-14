@@ -16,5 +16,35 @@ namespace Modul3_103022430004
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void satuanawal_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void satuanakhir_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void nilaiawal_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void nilaiakhir_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void convert_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
